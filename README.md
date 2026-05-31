@@ -8,11 +8,11 @@ All engineering, analytics, transformations, dashboards, and architecture implem
 
 ## Architecture
 
-Source Data
-     ↓
-Azure Data Lake
-     ↓
-Databricks
+Source Data <br>
+     ↓ <br>
+Azure Data Lake  <br>
+     ↓ <br>
+Databricks <br>
  ┌─────────┐
  │ Bronze  │
  └─────────┘
