@@ -42,7 +42,13 @@ The project implements a Medallion Architecture using Unity Catalog in Azure Dat
 
 ### 6. Dashboard Examples
 ![Constructors 1983](docs/constructors/constructor_championship_1983.jpg) 
-   
+best constructors in 1983
+
+![Drivers 1995](docs/constructors/driver_championship_1995.jpg) 
+best drivers in 1995
+
+More dashbords are in folder "docs"
+
 ### 7. Technology
 
 Cloud Platform:
