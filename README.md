@@ -8,7 +8,7 @@ The dataset used in this project was provided as part of an educational course a
 
 All engineering, analytics, transformations, dashboards, and architecture implementations are my own work.
 
-## 3. Solution Architecture
+### 3. Solution Architecture
 
 ```
 Source Data
@@ -26,10 +26,10 @@ Gold
 Dashboard
 ```
 
-## 4. Data pipeline 
+### 4. Data pipeline 
 ![Pipeline Workflow](docs/pipeline_workflow.jpg)
 
-## 5. Lakehouse Data Organization
+### 5. Lakehouse Data Organization
 ![Pipeline Workflow](docs/catalog.jpg)
 
 The project implements a Medallion Architecture using Unity Catalog in Azure Databricks.
@@ -40,10 +40,10 @@ The project implements a Medallion Architecture using Unity Catalog in Azure Dat
 - Gold layer contains dimensional models used for reporting and dashboarding
 - Analytical layer contains SQL code, dashboards and diagrams
 
-## 6. Dashboard Examples
+### 6. Dashboard Examples
  
    
-## 7. Technology
+### 7. Technology
 
 Cloud Platform:
 - Microsoft Azure
