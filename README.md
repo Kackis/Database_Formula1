@@ -1,12 +1,12 @@
 # Database_Formula1
 
 ### 1. Project Overview
-Azure Databricks data engineering and analytics project using medallion architecture (bronze/silver/gold layers). Build using Apache Spark, Delta Lake, Azure Storage, workflows, analytical dashboards, pipeline for data processing and business reporting.e
+Azure Databricks data engineering and analytics project using a Medallion Architecture (Bronze, Silver, and Gold layers). Build using Apache Spark, Delta Lake, Azure Storage, Databricks Workflows, analytical dashboards, pipeline for data processing and business reporting.
 
 ### 2. Data Source
-The dataset used in this project was provided as part of an educational course and is used here in accordance with the course portfolio usage permission -  "Azure Databricks & Spark Core For Data  Engineers" by Ramesh Retnasamy. 
 
-All engineering, analytics, transformations, dashboards, and architecture implementations are my own work.
+The dataset used in this project was provided as part of the Udemy course "Azure Databricks & Spark Core For Data Engineers" by Ramesh Retnasamy.
+This repository contains only the implementation, data engineering pipelines, dashboards, and project documentation.
 
 ### 3. Business Objective
 
@@ -52,17 +52,17 @@ The project implements a Medallion Architecture using Unity Catalog in Azure Dat
 - Landing layer stores source files.
 - Bronze layer contains raw ingested data.
 - Silver layer contains cleansed and transformed datasets.
-- Gold layer contains dimensional models used for reporting and dashboarding
-- Analytical layer contains SQL code, dashboards and diagrams
+- Gold layer contains dimensional models used for reporting and dashboarding.
+- Analytical layer contains SQL code, dashboards, and diagrams.
 
 ### 7. Dashboard Examples
 ![Constructors 1983](docs/constructors/constructor_championship_1983.jpg) 
-best constructors in 1983
+Constructor Championship Standings - 1983 Season
 
 ![Drivers 1995](docs/drivers/driver_championship_1995.jpg) 
-best drivers in 1995
+Driver Championship Standings - 1995 Season
 
-More dashbords are in folder "docs"
+More dashboards are available in the "docs" folder.
 
 ### 8. Technology
 
