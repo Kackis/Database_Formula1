@@ -1,4 +1,4 @@
-# Database_Formula1
+# Formula 1 Data Engineering Project
 
 ### 1. Project Overview
 Azure Databricks data engineering and analytics project using a Medallion Architecture (Bronze, Silver, and Gold layers). Build using Apache Spark, Delta Lake, Azure Storage, Databricks Workflows, analytical dashboards, pipeline for data processing and business reporting.
